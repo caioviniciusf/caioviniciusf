@@ -6,4 +6,6 @@
 <br/>
 <p align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75" alt="Java"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="75" height="75" alt="Oracle"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="75" height="75" alt="Postgresql" />
 </p>
